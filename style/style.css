@@ -182,7 +182,7 @@ float:right;
     height: 700px;
     margin: 0 auto;
     margin-top: 80px;
-    /* border: 3px solid green; */
+     border: 3px solid green; 
 }
 .wow{
 
@@ -198,47 +198,12 @@ float:right;
     font-size: 16px;
     margin: 0 auto;
     text-align: center;
-
-}.skilled{
-    display: flex;
-    flex-direction: column;
-    height: 200px;
-    display: inline;
 }
-
-.skill{
-    background-color:navajowhite;
-    background: fit;
-}
-.skill-info{
-    font-weight: regular;
-    font-size: 16px;
-    margin: left 15px;
-}
-.skill-title{
-    font-weight: ExtraBold;
-    font-size: 24;
-    
-}
+ 
 
 
 
- .skill{
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 5px 6px 50px 0px #000000;
-    margin: 20px;
-    display: flex;
-    gap: 10px;
-    justify-content: ; 
-}
 
-.skills{
-    background-color: beige;
-}
-.skillss{
-    background-color: bisque;
-}
 .support{
     width: 1440px;
     height: 700px;
