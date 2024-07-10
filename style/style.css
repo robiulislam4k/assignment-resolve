@@ -248,9 +248,10 @@ float:right;
     margin-right: 150px;
     margin-top: 66px; 
     margin-bottom: 150px;
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 50px; 
     background-image:url('/assets/handshake.jpg') ;
+    border-radius: 20px;
 }
 .hero{
     font-weight: bold;
