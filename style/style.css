@@ -82,7 +82,7 @@ margin-left: 40px;
 }
 
 .layer{
-background-color: black;
+/* background-color: black; */
 height: 60px;
 width: 60px;
 float: right;
@@ -106,7 +106,7 @@ float:right;
 }
 
  .layer1{
- background-color: black;
+ /* background-color: black; */
  height: 60px;
  width: 60px;
  float: left;
@@ -131,7 +131,7 @@ float:right;
     }
     
 .layer2{
-     background-color: black;
+     /* background-color: black; */
      height: 60px;
      width: 60px;
      float: right;
@@ -236,12 +236,23 @@ float:right;
 
 
 .support{
-    width: 1440px;
-    height: 700px;
+    /* width: 1440px;
+    height: 700px; */
     margin: 0 auto;
-     border: 4px solid gold; 
-    margin-top: 80px;
+     /* border: 4px solid gold;  */
+    /* margin-top: 80px; */
     background-image: url('/assets/handshake.jpg');
+    /* margin: 100px 150px 180px 150px; */
+    background-repeat: no-repeat;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 66px;
+    margin-bottom: 150px;
+    padding-left:10px ;
+    padding-right: 10px;
+    padding-top:1px;
+    padding-bottom: 50px;
+    
 }
 .hero{
     font-weight: bold;
@@ -249,13 +260,19 @@ float:right;
     font-size: 26;
     text-align: center;
     margin-top: 300px;
+    /* padding-left:20px ;
+    padding-right: 50px;
+    padding-top:90px;
+    padding-bottom: 170px; */
 }
 .alow{
     font-weight: 500;
     font-size: 20px;
+    /* padding: 25px 30px 40px 35px;; */
     .uiu{
         width: 548px;
         height: 70px;
+        padding: 25px 30px 40px 35px;;
     }
 }
 .try{
@@ -273,9 +290,11 @@ float:right;
 
 #robi{
     display: flex;
+    margin-bottom: 100px;
 }
 #rob{
     margin:20px 0 0 700px;
+    margin-bottom: 100px;
 }
 #r{
     margin-left: 220px;
