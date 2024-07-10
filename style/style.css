@@ -241,45 +241,29 @@ float:right;
 }
 .support{
     width: 1440px;
-    height: 800px;
+    height: 700px;
     margin: 0 auto;
-    /* border: 4px solid gold; */
+     border: 4px solid gold; 
     margin-top: 80px;
     background-image: url('/assets/handshake.jpg');
 }
-.handshack{
-color: #FFFFFF;
-font-weight: Bold;
-font-size: 32px;
-margin: 0 auto;
-text-align: center; 
-margin-top: 280px;
-}
-.need{
-    font-weight: regular;
-    font-size: 16px;
+.hero{
+    font-weight: bold;
     color: #FFFFFF;
-    margin: 0 auto;
+    font-size: 26;
     text-align: center;
-    width: 606px;
-
-} 
-.fead{
-margin-top:200px;
-width:348px;
-height:40px;
-color:#FFFFFF;
-margin-bottom: 400px ;
+    margin-top: 300px;
 }
-
- .back{
-    font-weight: SemiBold;
+.alow{
+    font-weight: 500;
     font-size: 20px;
-    color:#0D1321
-    /* margin-bottom: 0, 0,200px,0   */}
+    .uiu{
+        width: 548px;
+        height: 70px;
+    }
+}
 .try{
     width: 548px;
-    height: Hug;
     color: 3FFFFFF;
 
     margin: 0 auto;
