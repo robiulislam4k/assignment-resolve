@@ -28,6 +28,7 @@
     width: 852px;
     text-align: center;
     margin: 0 auto;
+    margin-right: 50px;
 }
 /* .button{
     width: 100px;
@@ -47,8 +48,8 @@
     color:black;
     font-weight: 600;
     font-size: 20px;
-    align-items: center;
-    margin-left: 500px;
+    /* align-items: center; */
+    margin-left: 600px;
    
      }
 .awal{
@@ -247,13 +248,12 @@ float:right;
     background-image: url('/assets/handshake.jpg');
 }
 .handshack{
-    color: #FFFFFF;
-    font-weight: Bold;
-    font-size: 32px;
-    margin: 0 auto;
-    text-align: center; 
-    margin-top: 280px;
-
+color: #FFFFFF;
+font-weight: Bold;
+font-size: 32px;
+margin: 0 auto;
+text-align: center; 
+margin-top: 280px;
 }
 .need{
     font-weight: regular;
@@ -265,31 +265,25 @@ float:right;
 
 } 
 .fead{
-margin-top: 200px;
-     width: 348px;
-    height: 40px;
-    color: #FFFFFF; 
-     margin-bottom: 400px ;
+margin-top:200px;
+width:348px;
+height:40px;
+color:#FFFFFF;
+margin-bottom: 400px ;
 }
 
  .back{
     font-weight: SemiBold;
     font-size: 20px;
     color:#0D1321
-    /* margin-bottom: 0, 0,200px,0   */
-
-    
-}  
+    /* margin-bottom: 0, 0,200px,0   */}
 .try{
     width: 548px;
     height: Hug;
     color: 3FFFFFF;
-   
-    margin: 0 auto;
 
-    align-items: center;
-   
-    
+    margin: 0 auto;
+/* align-items: center;  */
 }
 .last{
     margin-top: 50px;
@@ -302,6 +296,9 @@ margin-top: 200px;
 }
 #rob{
     margin:20px 0 0 700px;
+}
+#r{
+    margin-left: 220px;
 }
 
 
